@@ -54,5 +54,12 @@ Here are some of the projects I’ve been working on:
   </a>
 </div>
 
+<div class="project-tile">
+  <a href="/h2_control">
+    <img src="/images/CostIt_new.png" alt="Robust Controller">
+    <p><strong>Robust &amp; Optimal controller</strong></p>
+  </a>
+</div>
+
 </div>
 
